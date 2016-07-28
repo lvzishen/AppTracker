@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_alpha_80">#CC000000</color>
+    <color name="black_alpha_75">#BF000000</color>
+    <color name="black_alpha_70">#B3000000</color>
+    <color name="black_alpha_65">#A6000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_50">#80000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="black_alpha_30">#4D000000</color>
+    <color name="black_alpha_20">#33000000</color>
+
+    <color name="dialog_button_pressed">#0A000000</color>
+    <color name="dialog_title_color">#5E5E5E</color>
+    <color name="dialog_text_color">#474747</color>
+    <color name="dialog_title_divider_color">#cccccc</color>
+    <color name="dialog_divider_color">#DADADA</color>
+    <color name="dialog_button_text_color">#AF000000</color>
+
+    <color name="primary">#050600</color>
+    <color name="primary_dark">#050600</color>
+    <color name="accent">#050600</color>
+    <color name="primaryText">#ffffff</color>
+    <color name="secondaryText">#ffffff</color>
+
+    <color name="list_item_pressed_color">#FFF1F1F1</color>
+
+    <color name="huodong_spinner_background_normal">#2d2d2d</color>
+    <color name="activity_background">#FFFFFF</color>
+    <color name="title_item_background_normal">#00000000</color>
+    <color name="title_item_background_pressed">#33FFFFFF</color>
+    <color name="tab_text_color">#999999</color>
+    <color name="tab_text_color_selected">#000000</color>
+    <color name="tab_background">#FCFCFC</color>
+    <color name="tab_split_color">#D6D6D6</color>
+
+    <color name="button_normal">#ff5722</color>
+    <color name="button_pressed">#ccff5722</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#353535</color>
+    <color name="gray_background">#FaFaFa</color>
+    <color name="divider_color">#D1D1D1</color>
+    <color name="list_item_background_normal">#ffffff</color>
+    <color name="list_item_background_pressed">#F1F1F1</color>
+    <color name="list_my_divider_color">#d9d9d9</color>
+
+    <color name="text_dark">#af000000</color>
+    <color name="text_light">#3f000000</color>
+    <color name="light_gray">#1a000000</color>
+    <color name="bg_touch">#0a000000</color>
+
+    <color name="default_image">#eaeaea</color>
+
+    <color name="white40">#40FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="login_black">#101010</color>
+    <color name="gray">#666666</color>
+    <color name="gray_register">#bbbbbb</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FA7500</color>
+    <color name="yellow">#F0D600</color>
+    <color name="green">#00D096</color>
+    <color name="blue">#00ADF2</color>
+    <color name="pink">#FF66FF</color>
+    <color name="purple">#9933CC</color>
+
+    <color name="apply_disable">#333333</color>
+    <color name="apply_enable">#f75a53</color>
+    <color name="selector_light">#50ffffff</color>
+    <color name="selector_light_stroke">#70ffffff</color>
+    <color name="selector_dark">#30000000</color>
+    <color name="selector_dark_stroke">#50000000</color>
+
+</resources>
